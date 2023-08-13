@@ -2,3 +2,4 @@
 .gradle
 src/*.state
 src/ignore_*
+.*workspace*
